@@ -1,0 +1,34 @@
+║╗╝╚╔
+╩
+|│
+
+
+    ╔═══╕
+    ║   O
+    ║  /│\
+    ║  / \
+    ║
+ ═══╩═════
+
+
+....╔═══╕
+....║...O
+....║../│\
+....║../.\
+....║
+.═══╩═════
+
+☺☻♥♦♣♠•◘○◙♂♀♪♫☼►◄↕‼¶§▬↨↑↓
+
+ if(color==49)
+  system("color 0f"); // BLACK
+  else if(color==50)
+  system("color f0"); // WHITE
+  else if(color==51)
+  system("color 8f"); // GREY
+  if(color==52)
+  system("color e0"); // YELLOW
+  else if(color==53)
+  system("color cf"); // RED
+  else if(color==54)
+  system("color 3f"); // BLUE
